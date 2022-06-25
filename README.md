@@ -6,10 +6,13 @@ git course
 ● To delete a local branch <br>
  git branch -d dev<br><br>
  
-1.	Tell me how to remove tags locally and remotely:-<Br>
+2.	Tell me how to remove tags locally and remotely:-<Br>
  ●	To delete remote tag<Br>
  git push origin --delete v1.0<Br> 
  ● To delete local tags<br>
  git tag -d v1.0<br><Br>
+ 
+ 3. Tell me how to list tags<br>
+ ● git tag<br><Br>
 
 ![alt text](1.PNG)
